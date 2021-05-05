@@ -1,5 +1,17 @@
 data = [
     {
+        'name': 'Maru',
+        'follower_count': 50,
+        'description': 'cute cat from Okinawa',
+        'country': 'Japan'
+    },
+    {
+        'name': 'Luka',
+        'follower_count': 100000,
+        'description': 'curly kitty from Hokkaido',
+        'country': 'Japan'
+    },
+    {
         'name': 'Instagram',
         'follower_count': 346,
         'description': 'Social media platform',
